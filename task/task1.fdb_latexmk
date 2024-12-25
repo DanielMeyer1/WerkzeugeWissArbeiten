@@ -1,9 +1,9 @@
 # Fdb version 4
-["lualatex"] 1735140636.49028 "c:/Users/Gebad/Documents/GitHub/Git-2024-25/task/task1.tex" "task1.pdf" "task1" 1735140637.56039 0
+["lualatex"] 1735141681.48707 "c:/Users/Gebad/Documents/GitHub/WerkzeugeWissArbeiten/task/task1.tex" "task1.pdf" "task1" 1735141682.5117 0
   "../diagram/classes_files.pdf" 1735139676 21764 be9a41ac20a4790d82bfd0c55a9b4b8e ""
   "C:/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc" 1731339886 127319 ad60bc8d9db7670b8b7561db3cb51d04 ""
   "C:/texlive/2024/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz" 1733770886 302627 cb24ca24aadbb2111ba787697656a487 ""
-  "c:/Users/Gebad/Documents/GitHub/Git-2024-25/task/task1.tex" 1735140635 4292 6be713ca747b74e8921c2a4862bdfc25 ""
+  "c:/Users/Gebad/Documents/GitHub/WerkzeugeWissArbeiten/task/task1.tex" 1735140635 4292 6be713ca747b74e8921c2a4862bdfc25 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1713109939 1004 54797486969f23fa377b128694d548df ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1713109939 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmex10.tfm" 1713111437 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
@@ -126,7 +126,7 @@
   "c:/texlive/2024/texmf-dist/tex/luatex/luaotfload/luaotfload.lua" 1713116114 13565 50482dad4c221a79dbdbb982122baf8c ""
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1734390686 5531417 afafd3ba8f822fda36e3585e3807683b ""
   "c:/texlive/2024/texmf-var/web2c/luahbtex/lualatex.fmt" 1734390973 5648204 807b9b1733966ca540788741a8072ad8 ""
-  "task1.aux" 1735140637 136 ca07db89b47faee1537210402390702f "lualatex"
+  "task1.aux" 1735141682 136 ca07db89b47faee1537210402390702f "lualatex"
   "task1.tex" 1735140635 4292 6be713ca747b74e8921c2a4862bdfc25 ""
   (generated)
   "task1.aux"

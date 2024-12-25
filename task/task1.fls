@@ -1,6 +1,6 @@
-PWD c:/Users/Gebad/Documents/GitHub/Git-2024-25/task
+PWD c:/Users/Gebad/Documents/GitHub/WerkzeugeWissArbeiten/task
 INPUT c:/texlive/2024/texmf-var/web2c/luahbtex/lualatex.fmt
-INPUT c:/Users/Gebad/Documents/GitHub/Git-2024-25/task/task1.tex
+INPUT c:/Users/Gebad/Documents/GitHub/WerkzeugeWissArbeiten/task/task1.tex
 OUTPUT task1.log
 INPUT c:/texlive/2024/texmf-dist/tex/latex/tex-ini-files/lualatexquotejobname.lua
 INPUT c:/texlive/2024/texmf-dist/tex/latex/base/ltluatex.lua
